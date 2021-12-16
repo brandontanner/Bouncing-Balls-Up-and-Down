@@ -6,7 +6,7 @@ After selecting the number of balls to create, that many balls will be created i
 
 ### Installation
 
-1. Download the zip file in github and load **projectile.html** it in a browser.
+1. Download the zip file in github and load **projectile.html** in a browser.
 2. Enter the console and type ```factory()```, inputting the number of balls within the parenthesis and pressing the "enter" key. For example, if you wanted to display 10 balls, you could type ```factory(10)```.
 3. Next, type ```update()``` and press "enter", and the balls should begin to bounce. 
 
